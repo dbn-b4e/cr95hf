@@ -1,0 +1,41 @@
+# Build artifacts
+build/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+.*.swp
+
+# Arduino build cache
+.arduino/
+
+# Doxygen output
+docs/
+
+# System files
+Thumbs.db
+desktop.ini
